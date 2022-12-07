@@ -1,5 +1,5 @@
 ## IndecyJS v1.0.0
-### JavaScript version of Indecy
+### JavaScript version of [Indecy](https://github.com/ansvir/indecy)
 ### Notes:
 1. In this version no options, so considered that:
    1. First case is declared as first item in array
